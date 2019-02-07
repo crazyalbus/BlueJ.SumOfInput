@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Created\ by\ iyasuwatts\ on\ 10/17/17.\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=int\ getNumber()
+comment3.params=number
+comment3.target=int\ addNumbers(int)
+numComments=4
